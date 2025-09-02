@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AleMartinRivera/AleMartinRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Alejandro Martin**, and I am currently studying **Software Engineering**.  
 
-Here are some ideas to get you started:
+This profile is a **work in progress** 🚧, but here you will find projects related to:
+- Software Engineering concepts  
+- University coursework, including mandatory assignments and lab projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack  
+I can assist you with technologies such as:  
+- **JavaScript**, **TypeScript**, **React**, **Node.js**, **CSS**, **HTML**
+
+---
+
+### 📬 Get in touch  
+If you have any technical questions or need help with a project, feel free to reach out:  
+- [LinkedIn](https://www.linkedin.com/in/alejandromart%C3%ADnrivera/)  
+- [X (Twitter)](https://x.com/AleMartinRivera)
+
+--
+
+### ⚡ Fun fact  
+I’m training from scratch to one day complete an Ironman 🏊‍♂️🚴‍♂️🏃‍♂️
