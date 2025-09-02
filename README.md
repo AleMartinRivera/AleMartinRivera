@@ -19,7 +19,7 @@ If you have any technical questions or need help with a project, feel free to re
 - [LinkedIn](https://www.linkedin.com/in/alejandromart%C3%ADnrivera/)  
 - [X (Twitter)](https://x.com/AleMartinRivera)
 
---
+---
 
 ### ⚡ Fun fact  
 I’m training from scratch to one day complete an Ironman 🏊‍♂️🚴‍♂️🏃‍♂️
